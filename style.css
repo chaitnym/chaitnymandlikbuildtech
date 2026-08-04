@@ -188,7 +188,16 @@ footer{
     font-size:28px;
     margin-bottom:10px;
 }
+.logo{
+    text-align:center;
+    padding:15px;
+    background:#ffffff;
+}
 
+.logo img{
+    width:160px;
+    height:auto;
+}
 .footer-content p{
     margin:8px 0;
     line-height:1.6;
