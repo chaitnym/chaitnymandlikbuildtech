@@ -118,3 +118,41 @@ footer{
 .btn:hover{
     background:#e65c00;
 }
+#services{
+    padding:70px 10%;
+    background:#f5f7fa;
+    text-align:center;
+}
+
+#services h2{
+    font-size:40px;
+    margin-bottom:40px;
+    color:#0b3d91;
+}
+
+.service{
+    display:inline-block;
+    width:300px;
+    margin:15px;
+    padding:30px 20px;
+    background:#fff;
+    border-radius:12px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.1);
+    transition:0.3s;
+    vertical-align:top;
+}
+
+.service:hover{
+    transform:translateY(-10px);
+    box-shadow:0 15px 30px rgba(0,0,0,0.2);
+}
+
+.service h3{
+    color:#ff6b00;
+    margin-bottom:15px;
+}
+
+.service p{
+    color:#555;
+    line-height:1.6;
+}
